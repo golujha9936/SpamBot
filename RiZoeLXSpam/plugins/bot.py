@@ -20,7 +20,7 @@ rizoel = f"✯ {Alivemsg} ✯\n\n"
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-rizoel += f"• **ғᴜᴄᴋᴇʀXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"• **ғᴜᴄᴋᴇʀXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{fuckerversion}`\n"
 rizoel += f"═══════════════════\n\n"   
 
                                   
