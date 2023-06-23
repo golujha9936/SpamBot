@@ -11,7 +11,7 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
 
 Riz_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DNHxHELL")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/About_Aryan_Owner")
         ],
         [
         Button.inline("• ᴄᴍᴅs •", data="help_back")
@@ -20,11 +20,11 @@ Riz_Button = [
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/About_Aryan_Owner"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/FAKE_ARYAN")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/golujha9936/SpamBot")
         ]
         ]
         
@@ -51,7 +51,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/FAKE_ARYAN)**"
        if event.sender_id not in SUDO_USERS:
             await event.client.send_file(TheRiZoeL,
                   RIZ_IMG,
