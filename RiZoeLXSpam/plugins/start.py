@@ -7,7 +7,7 @@ from .. import Riz, Riz2, Riz3, Riz4, Riz5, Riz6, Riz7, Riz8, Riz9, Riz10, ALIVE
 from RiZoeLXSpam.plugins.help import *
 
 
-RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://graph.org/file/6519b78c59d6d5df56a85.jpg"
 
 Riz_Button = [
         [
