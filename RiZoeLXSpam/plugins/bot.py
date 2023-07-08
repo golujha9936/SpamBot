@@ -3,7 +3,7 @@ import asyncio
 import sys
 import git
 import heroku3
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, rizoelversion
+from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, fuckerversion
 from RiZoeLXSpam import CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
 from RiZoeLXSpam import ALIVE_PIC, PING_MSG, ALIVE_MSG
