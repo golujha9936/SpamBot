@@ -13,7 +13,7 @@ from time import time
 from datetime import datetime
 
 pongg = PING_MSG if ALIVE_PIC else "F𝚞C𝙺E𝚁 X sᴘᴀᴍ"
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://graph.org/file/6519b78c59d6d5df56a85.jpg"
 Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗙𝘂𝗖𝗸𝗲𝗥 𝗫 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲."
 
 rizoel = f"✯ {Alivemsg} ✯\n\n"
