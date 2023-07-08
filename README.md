@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>F𝚞C𝙺E𝚁 X sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/golujha9936/SpamBot/fork)
